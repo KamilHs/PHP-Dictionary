@@ -27,7 +27,7 @@ const PASSWORD = "";
 const DATABASE = "dictionary";
 ```
 
-For default values you must create a database name ```dictionary``` on your local machine.
+For default values you must create a database named as ```dictionary``` on your local machine.
 
 ## Demo
 
